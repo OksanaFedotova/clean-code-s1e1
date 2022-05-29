@@ -105,7 +105,7 @@
 /* New Task */
 .task-label[for='new-task'] {
   display: block;
-  m  rgin: 0 0 20px;
+  margin: 0 0 20px;
 }
 
 .input#new-task {
